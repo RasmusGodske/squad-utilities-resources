@@ -1,0 +1,128 @@
+{
+    "Armoured_technical": {
+        "category": "",
+        "factions": [],
+        "id": "Armoured_technical",
+        "name": "Armoured Technical"
+    },
+    "BMP-1": {
+        "category": "",
+        "factions": [],
+        "id": "BMP-1",
+        "name": "BMP-1"
+    },
+    "BRDM-2": {
+        "category": "",
+        "factions": [],
+        "id": "BRDM-2",
+        "name": "BRDM-2"
+    },
+    "BTR-80": {
+        "category": "",
+        "factions": [],
+        "id": "BTR-80",
+        "name": "BTR-80"
+    },
+    "BTR-82": {
+        "category": "",
+        "factions": [],
+        "id": "BTR-82",
+        "name": "BTR-82"
+    },
+    "FV4034": {
+        "category": "",
+        "factions": [],
+        "id": "FV4034",
+        "name": "FV4034"
+    },
+    "FV432": {
+        "category": "",
+        "factions": [],
+        "id": "FV432",
+        "name": "FV432"
+    },
+    "FV510": {
+        "category": "",
+        "factions": [],
+        "id": "FV510",
+        "name": "FV510"
+    },
+    "HX60-truck": {
+        "category": "",
+        "factions": [],
+        "id": "HX60-truck",
+        "name": "HX60-truck"
+    },
+    "M1126": {
+        "category": "",
+        "factions": [],
+        "id": "M1126",
+        "name": "M1126"
+    },
+    "M1A2": {
+        "category": "",
+        "factions": [],
+        "id": "M1A2",
+        "name": "M1A2"
+    },
+    "M2A3": {
+        "category": "",
+        "factions": [],
+        "id": "M2A3",
+        "name": "M2A3"
+    },
+    "M939-truck": {
+        "category": "",
+        "factions": [],
+        "id": "M939-truck",
+        "name": "M939-truck"
+    },
+    "MATV": {
+        "category": "",
+        "factions": [],
+        "id": "MATV",
+        "name": "MATV"
+    },
+    "MT-LBM_6MA": {
+        "category": "",
+        "factions": [],
+        "id": "MT-LBM_6MA",
+        "name": "MT-LBM_6MA"
+    },
+    "MT-LBM_6MB": {
+        "category": "",
+        "factions": [],
+        "id": "MT-LBM_6MB",
+        "name": "MT-LBM_6MB"
+    },
+    "Minsk_Motercycle": {
+        "category": "",
+        "factions": [],
+        "id": "Minsk_Motercycle",
+        "name": "Minsk_Motercycle"
+    },
+    "T-62": {
+        "category": "",
+        "factions": [],
+        "id": "T-62",
+        "name": "T-62"
+    },
+    "T72B3": {
+        "category": "",
+        "factions": [],
+        "id": "T72B3",
+        "name": "T72B3"
+    },
+    "Technical": {
+        "category": "",
+        "factions": [],
+        "id": "Technical",
+        "name": "Technical"
+    },
+    "Tigr": {
+        "category": "",
+        "factions": [],
+        "id": "Tigr",
+        "name": "Tigr"
+    }
+}
