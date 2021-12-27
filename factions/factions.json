@@ -1,0 +1,30 @@
+{
+    "ca": {
+        "id": "ca",
+        "name": "Canadian Army"
+    },
+    "ins": {
+        "id": "ins",
+        "name": "Insurgents"
+    },
+    "mea": {
+        "id": "mea",
+        "name": "Middle Eastern Alliance"
+    },
+    "militia": {
+        "id": "militia",
+        "name": "Irregular Militia"
+    },
+    "ru": {
+        "id": "ru",
+        "name": "Russian Ground Forces"
+    },
+    "uk": {
+        "id": "uk",
+        "name": "British Army"
+    },
+    "us": {
+        "id": "us",
+        "name": "United States Army"
+    }
+}
